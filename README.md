@@ -7,5 +7,5 @@ I have adapted my implementation to work for password validation.
 <img src="https://raw.githubusercontent.com/Crazelu/AnimatedCursor/main/screenshots/twitter_demo.gif" alt="Demo of original UI posted on Twitter">
 
 ## Adapted Implementation for Password Validation
-<img src="https://raw.githubusercontent.com/Crazelu/AnimatedCursor/main/screenshots/demo.gif" width="280" height="600" alt="Adapted implementation demo">
+<img src="https://raw.githubusercontent.com/Crazelu/AnimatedCursor/main/screenshots/demo.gif" width="300" height="600" alt="Adapted implementation demo">
 
