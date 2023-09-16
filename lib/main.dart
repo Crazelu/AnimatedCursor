@@ -285,7 +285,7 @@ class _DemoPageState extends State<DemoPage> with TickerProviderStateMixin {
             Stack(
               children: [
                 TextField(
-                  showCursor: false,
+                  showCursor: _valid,
                   key: _textFieldKey,
                   focusNode: _focusNode,
                   controller: _controller,
