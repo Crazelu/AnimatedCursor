@@ -1,0 +1,11 @@
+# Animated Cursor
+
+This is an implementation of a text editing interface I saw on Twitter that I thought was fun by (@pacocoursey)[https://twitter.com/pacocoursey].
+I have adapted my implementation to work for password validation.
+
+## Original Post on Twitter
+<img src="https://raw.githubusercontent.com/Crazelu/AnimatedCursor/main/screenshots/twitter_demo.gif">
+
+## Adapted Implementation for Password Validation
+<img src="https://raw.githubusercontent.com/Crazelu/AnimatedCursor/main/screenshots/demo.gif">
+
