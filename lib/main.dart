@@ -36,7 +36,7 @@ class _DemoPageState extends State<DemoPage> with TickerProviderStateMixin {
 
   static const _border = OutlineInputBorder(
     borderSide: BorderSide(color: Color(0xffecebec), width: .8),
-    borderRadius: BorderRadius.all(Radius.circular(8)),
+    borderRadius: BorderRadius.all(Radius.circular(16)),
   );
   static const _textStyle = TextStyle(fontSize: 20);
   static const _boldTextStyle = TextStyle(
@@ -417,7 +417,7 @@ class AnimatedCursor extends StatelessWidget {
             width: 6,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(24),
-              color: Colors.grey.withOpacity(.35),
+              color: Colors.grey.withOpacity(.3),
             ),
           ),
           if (progress > 0)
